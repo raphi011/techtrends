@@ -1,0 +1,11 @@
+
+  
+apiVersion: v1
+name: techtrends
+description: Install TechTrends deployment manifests
+keywords:
+  - techtrends
+version: 1.0.0
+maintainers:
+  - name: raphi011
+    email: raphi011@xyz.com
